@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Em quanto tempo posso cancelar um pedido?",
+    "answer_span": "em até 7 dias úteis após a validação do pedido",
+    "source": "politica_cancelamento.md"
+  },
+  {
+    "question": "Quanto tempo demora o reembolso de um pedido cancelado?",
+    "answer_span": "em até 10 dias úteis após a confirmação do cancelamento",
+    "source": "politica_cancelamento.md"
+  },
+  {
+    "question": "Pedido com nota fiscal emitida pode ser cancelado?",
+    "answer_span": "não podem ser cancelados pelo fluxo padrão",
+    "source": "politica_cancelamento.md"
+  },
+  {
+    "question": "Quem aprova exceções de cancelamento fora do prazo?",
+    "answer_span": "depende de aprovação da coordenação de operações",
+    "source": "politica_cancelamento.md"
+  },
+  {
+    "question": "Qual o limite diário de alimentação em viagens?",
+    "answer_span": "alimentação com limite diário de R$ 120,00",
+    "source": "politica_reembolso_viagens.md"
+  },
+  {
+    "question": "Qual o prazo para pedir reembolso depois da viagem?",
+    "answer_span": "em até 30 dias corridos após o retorno da viagem",
+    "source": "politica_reembolso_viagens.md"
+  },
+  {
+    "question": "Quem aprova reembolsos acima de mil reais?",
+    "answer_span": "exigem aprovação adicional da diretoria financeira",
+    "source": "politica_reembolso_viagens.md"
+  },
+  {
+    "question": "Posso pedir adiantamento para a viagem?",
+    "answer_span": "adiantamento de até 70% do custo estimado da viagem",
+    "source": "politica_reembolso_viagens.md"
+  },
+  {
+    "question": "Qual o tamanho mínimo de senha exigido?",
+    "answer_span": "no mínimo 14 caracteres",
+    "source": "politica_seguranca_informacao.md"
+  },
+  {
+    "question": "Em quanto tempo devo reportar um incidente de segurança?",
+    "answer_span": "em até 2 horas após a identificação",
+    "source": "politica_seguranca_informacao.md"
+  },
+  {
+    "question": "Posso usar dados reais de clientes em ambiente de testes?",
+    "answer_span": "Anonimização é obrigatória em ambientes de desenvolvimento e testes",
+    "source": "politica_seguranca_informacao.md"
+  },
+  {
+    "question": "Quantos dias presenciais o regime híbrido exige?",
+    "answer_span": "2 dias presenciais por semana",
+    "source": "politica_trabalho_remoto.md"
+  },
+  {
+    "question": "Qual o valor do auxílio home office?",
+    "answer_span": "R$ 150,00 mensais",
+    "source": "politica_trabalho_remoto.md"
+  },
+  {
+    "question": "Qual o horário núcleo de disponibilidade no remoto?",
+    "answer_span": "das 10h às 16h, no fuso de Brasília",
+    "source": "politica_trabalho_remoto.md"
+  },
+  {
+    "question": "Preciso de VPN para trabalhar de casa?",
+    "answer_span": "exige uso da VPN corporativa e autenticação multifator",
+    "source": "politica_trabalho_remoto.md"
+  }
+]
