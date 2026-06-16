@@ -125,3 +125,10 @@ ecosystem, not for a quality jump — **the objective matters more than the opti
 ```
 pytest tests/test_experiments.py -v   # 4 tests
 ```
+
+### Referências científicas (crédito aos autores)
+
+- Akiba et al. (2019). Optuna: A Next-generation Hyperparameter Optimization Framework. KDD.
+- Bergstra et al. (2011). Algorithms for Hyper-Parameter Optimization. NeurIPS — TPE (base do Hyperopt).
+- Li et al. (2020). A System for Massively Parallel Hyperparameter Tuning. MLSys — ASHA.
+- Jamieson & Talwalkar (2016). Non-stochastic Best Arm Identification. AISTATS — Successive Halving.
